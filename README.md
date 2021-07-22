@@ -1,3 +1,6 @@
+<html>
+      <head></head>
+      <body>
 # nycscertweb
 Repository created for CS Methods at Hunter College
 
@@ -15,3 +18,5 @@ Methods 1 Class - GitHub Page Assignment
       <a href="">Initial CS Lesson</a>
       <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/LiveCodingNotesAssignment2MethodsAlexMoore7-14-21.pdf">Live Coding Activity</a>
       <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/teachingNetlogo.txt">Teaching Netlogo</a>
+      </body>
+            </html>
