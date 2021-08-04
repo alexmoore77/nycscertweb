@@ -10,12 +10,11 @@
 <tr><td><ul>
       <li>[0-1]:  <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/1/Nim.java">Nim.java</a>            
       <li>[2]:  <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/2/Mancala.java">Mancala.java</a></li>
-<li></li>
             <li>[3]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/3/TwoDimArray.java">TwoDimArray.java</a></li>
             <li>[4]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/4/CGOL.java">CGOL.java</a></li>
             <li>[5]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Time.java">Time.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Fib.java">Fib.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Driver.java">Driver.java</a></li>
             <li>[6]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/6/SuperArray.java">SuperArray.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/6/SuperArrayDriver.java">SuperArrayDriver.java</a></li>
-            <li></li>
+            <li>[7]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/7/Foogle.java">Foogle.java</a></li>
             <li></li>
             <li></li>
             <li><a href="https://github.com/hunter-teacher-cert/csci70900-summer2021/blob/main/daily/6/SuperArray.java">SuperArray.java</a></li>
