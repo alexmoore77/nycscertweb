@@ -34,7 +34,7 @@
             <li></li>
       </ul>
       </td></tr><tr><td align=center> 
-      <font size=+1><b>Methods I</b></font> 
+      <font size=+1><b>Methods I</b></font> <br>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmq4irVJysouWKmgBvflzf03BiNTxc3duCtg&usqp=CAU" width=150></td></tr>
       <tr><td>
            
