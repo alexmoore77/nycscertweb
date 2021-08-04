@@ -8,17 +8,17 @@
             </td></tr>
       <tr><td align=center><b>Programming in Java</b><br><img src="https://live.staticflickr.com/8016/7317420838_edb29a4043_b.jpg" width=150></td></tr>
 <tr><td><ul>
-      <li>[0-1]:  <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/1/Nim.java">Nim.java</a>            <li>[2]:  <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/2/Mancala.java">Mancala.java</a></li>
+      <li>[0-1]:  <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/1/Nim.java">Nim.java</a>            
+      <li>[2]:  <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/2/Mancala.java">Mancala.java</a></li>
 <li></li>
+            <li>[3]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/3/TwoDimArray.java">TwoDimArray.java</a></li>
+            <li>[4]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/4/CGOL.java">CGOL.java</a></li>
+            <li>[5]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Time.java">Time.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Fib.java">Fib.java</a><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Driver.java">Driver.java</a></li>
             <li></li>
             <li></li>
             <li></li>
             <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li><a href="https://github.com/hunter-teacher-cert/csci70900-summer2021/blob/main/daily/6/SuperArray.java">SuperArray.java</a>        </li>
-
+            <li><a href="https://github.com/hunter-teacher-cert/csci70900-summer2021/blob/main/daily/6/SuperArray.java">SuperArray.java</a></li>
             </ul>
       </td></tr><tr><td align=center><font size=+1><b>Data Structrues</b><br><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Stack_data_structure.gif" width=150></b>
       </td></tr><tr><td><ul>
