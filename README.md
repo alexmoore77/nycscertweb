@@ -7,7 +7,7 @@
      <br> Alexander Moore * alexmoore77 * amoore@schools.nyc.gov</font>
             </td></tr>
 <tr><td>
-     <b>Programming in Java</b>
+      <font size=+1> <b>Programming in Java</b></font>
       <ul><li><a href="https://github.com/hunter-teacher-cert/csci70900-summer2021/blob/main/daily/6/SuperArray.java">SuperArray.java</a>
             </li>
             <li></li>
@@ -20,7 +20,7 @@
             <li></li>
             <li></li>
             </ul>
-      </td></tr><tr><td>  <br>Data Structrues</b>
+      </td></tr><tr><td><font size=+1><b>Data Structrues</b><font size=+1>
       <ul>
             <li><a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/lists/Llist.java">Llist.java</a>
             </li>
@@ -35,7 +35,7 @@
             <li></li>
       </ul>
       </td></tr><tr><td> 
-      <br>Methods I      
+      <font size=+1><b>Methods I</b></font>      
       <ul><li><a href="">Initial CS Lesson</a>
             </li>
             <li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/LiveCodingNotesAssignment2MethodsAlexMoore7-14-21.pdf">Live Coding Activity</a></li>
