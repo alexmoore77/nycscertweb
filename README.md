@@ -34,9 +34,10 @@
             <li></li>
       </ul>
       </td></tr><tr><td align=center> 
+      <font size=+1><b>Methods I</b></font> 
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmq4irVJysouWKmgBvflzf03BiNTxc3duCtg&usqp=CAU" width=150></td></tr>
       <tr><td>
-      <font size=+1><b>Methods I</b></font>      
+           
       <ul><li><a href="">Initial CS Lesson</a>
             </li>
             <li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/LiveCodingNotesAssignment2MethodsAlexMoore7-14-21.pdf">Live Coding Activity</a></li>
