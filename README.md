@@ -3,11 +3,10 @@
       <body>
 # nycscertweb
 <table>
-<tr><td align=center><bgcolor=purple>        Repository created for CS Methods at Hunter College</bgcolor>
-      </td></tr>
-      <tr><td>Alexander Moore
+<tr><td align=center bgcolor=purple><font color=white>        Repository created for CS Methods at Hunter College
+     <br> Alexander Moore
 <br>alexmoore77
-            <br>amoore@schools.nyc.gov
+      <br>amoore@schools.nyc.gov</font>
             </td></tr>
 <tr><td>
      <b>Programming in Java</b>
@@ -23,7 +22,7 @@
             <li></li>
             <li></li>
             </ul>
-      </td></tr><tr><td>    <br><br>Data Structrues</b>
+      </td></tr><tr><td>  <br>Data Structrues</b>
       <ul>
             <li><a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/lists/Llist.java">Llist.java</a>
             </li>
