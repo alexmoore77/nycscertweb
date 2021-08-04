@@ -46,11 +46,13 @@
       </ul>
       </td></tr>
       <tr><td><i>Repository Image Licenses- Creative Commons:<br>
-            
-            https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmq4irVJysouWKmgBvflzf03BiNTxc3duCtg&usqp=CAU
-            https://upload.wikimedia.org/wikipedia/commons/9/9f/Stack_data_structure.gif
-            https://live.staticflickr.com/8016/7317420838_edb29a4043_b.jpg
+      <ul>      
+          <li>  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmq4irVJysouWKmgBvflzf03BiNTxc3duCtg&usqp=CAU
+            <li>https://upload.wikimedia.org/wikipedia/commons/9/9f/Stack_data_structure.gif
+            <li>https://live.staticflickr.com/8016/7317420838_edb29a4043_b.jpg
+            </ul>
             </i></td></tr>
+      
             </table>
       </body>
             </html>
