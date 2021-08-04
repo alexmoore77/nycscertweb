@@ -15,13 +15,10 @@
             <li>[5]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Time.java">Time.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Fib.java">Fib.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Driver.java">Driver.java</a></li>
             <li>[6]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/6/SuperArray.java">SuperArray.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/6/SuperArrayDriver.java">SuperArrayDriver.java</a></li>
             <li>[7]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/7/Foogle.java">Foogle.java</a></li>
-            <li></li>
-            <li></li>
-            <li><a href="https://github.com/hunter-teacher-cert/csci70900-summer2021/blob/main/daily/6/SuperArray.java">SuperArray.java</a></li>
+            <li>[8]:<a href="https://github.com/hunter-teacher-cert/csci70900-summer2021/blob/main/daily/6/SuperArray.java">SuperArray.java</a></li>
             </ul>
       </td></tr><tr><td align=center><font size=+1><b>Data Structrues</b><br><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Stack_data_structure.gif" width=150></b>
-      </td></tr><tr><td><ul>
-            <li><a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/lists/Llist.java">Llist.java</a>
+      </td></tr><tr><td><ul><li><a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/lists/Llist.java">Llist.java</a>
             </li>
             <li></li>
             <li></li>
