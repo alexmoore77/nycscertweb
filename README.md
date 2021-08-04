@@ -6,10 +6,8 @@
 <tr><td align=center bgcolor=800080><b>       Portfolio Repository: Hunter College Computer Science Advanced Certificate Program</b>
       <br> Alexander Moore * alexmoore77 * amoore@schools.nyc.gov</font>
             </td></tr>
-      <tr><td><b>Programming in Java</b><br><img src="https://live.staticflickr.com/8016/7317420838_edb29a4043_b.jpg" width=150></td></tr>
-<tr><td>
-      
-      <ul><li><a href="https://github.com/hunter-teacher-cert/csci70900-summer2021/blob/main/daily/6/SuperArray.java">SuperArray.java</a>
+      <tr><td align=center><b>Programming in Java</b><br><img src="https://live.staticflickr.com/8016/7317420838_edb29a4043_b.jpg" width=150></td></tr>
+<tr><td><ul><li><a href="https://github.com/hunter-teacher-cert/csci70900-summer2021/blob/main/daily/6/SuperArray.java">SuperArray.java</a>
             </li>
             <li></li>
 <li></li>
