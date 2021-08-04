@@ -3,10 +3,8 @@
       <body>
 # nycscertweb
 <table>
-<tr><td align=center bgcolor=purple><font color=white>        Repository created for CS Methods at Hunter College
-     <br> Alexander Moore
-<br>alexmoore77
-      <br>amoore@schools.nyc.gov</font>
+<tr><td align=center bgcolor=800080><font color=white>        Repository created for CS Methods at Hunter College
+     <br> Alexander Moore * alexmoore77 * amoore@schools.nyc.gov</font>
             </td></tr>
 <tr><td>
      <b>Programming in Java</b>
