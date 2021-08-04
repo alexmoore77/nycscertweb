@@ -15,20 +15,17 @@
             <li>[5]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Time.java">Time.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Fib.java">Fib.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/5/Driver.java">Driver.java</a></li>
             <li>[6]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/6/SuperArray.java">SuperArray.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/6/SuperArrayDriver.java">SuperArrayDriver.java</a></li>
             <li>[7]: <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/7/Foogle.java">Foogle.java</a></li>
-            <li>[8]:<a href="https://github.com/hunter-teacher-cert/csci70900-summer2021/blob/main/daily/6/SuperArray.java">SuperArray.java</a></li>
             </ul>
       </td></tr><tr><td align=center><font size=+1><b>Data Structrues</b><br><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Stack_data_structure.gif" width=150></b>
-      </td></tr><tr><td><ul><li>[lists]<a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/lists/Llist.java">Llist.java</a>, <a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/lists/Node.java">Node.java</a>, <a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/lists/Driver.java">Driver.java</a>
-            </li>
-      <li>[maze]<a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/maze/Knights.java">Knights.java</a>, <a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/maze/Maze.java">Maze.java</a>, <a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/maze/Driver.java">Driver.java</a>, <a href=""></a></li>
-      <li>[mode]<a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/mode/Mode.java"></a><a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/mode/Driver.java">Driver.java</a></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+      </td></tr><tr><td><ul><li>[lists]<a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/lists/Llist.java">Llist.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/lists/Node.java">Node.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/lists/Driver.java">Driver.java</a></li>
+      <li>[maze]<a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/maze/Knights.java">Knights.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/maze/Maze.java">Maze.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/maze/Driver.java">Driver.java</a></li>
+      <li>[mode]<a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/mode/Driver.java">Driver.java</a><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/mode/Mode.java">Mode.java</a></li>
+            <li>[sort1]<a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/sort1/SortDemo.java">SortDemo.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/sort1/SortDemoDriver.java">SortDemoDriver.java</a></li>
+      <li>[trees-parts 1, 2, and 3]<a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/treesWorkingPts123/BSTree.java">BSTree.java</a><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/treesWorkingPts123/Driver.java">Driver.java</a><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/treesWorkingPts123/TreeNode.java">TreeNode.java</a><a href=""></a></li>
+      <li>[project 1 - Knight's Tour]<a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/maze/Knights.java">Knights.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/maze/Driver.java">Driver.java</a></li>
+      <li>[project 2 - Doubly Linked List]<a href=""></a><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/project2DoublyLinkedList/DLList.java">DLList.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/project2DoublyLinkedList/DLLNode.java">DLLNode.java</a>, <a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/project2DoublyLinkedList/Driver.java">Driver.java</a></li>
+      <li>[project 3 - Queue]<a href=""></a><a href=""></a><a href=""></a></li>
+            <li>[ds-design]<a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/ds_design/ds_design.txt">DS Design</a></li>
       </ul>
       </td></tr><tr><td align=center> 
       <font size=+1><b>Methods I</b></font> <br>
