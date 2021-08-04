@@ -18,10 +18,10 @@
             <li>[8]:<a href="https://github.com/hunter-teacher-cert/csci70900-summer2021/blob/main/daily/6/SuperArray.java">SuperArray.java</a></li>
             </ul>
       </td></tr><tr><td align=center><font size=+1><b>Data Structrues</b><br><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Stack_data_structure.gif" width=150></b>
-      </td></tr><tr><td><ul><li><a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/lists/Llist.java">Llist.java</a>
+      </td></tr><tr><td><ul><li>[lists]<a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/lists/Llist.java">Llist.java</a>, <a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/lists/Node.java">Node.java</a>, <a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/lists/Driver.java">Driver.java</a>
             </li>
-            <li></li>
-            <li></li>
+      <li>[maze]<a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/maze/Knights.java">Knights.java</a>, <a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/maze/Maze.java">Maze.java</a>, <a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/maze/Driver.java">Driver.java</a>, <a href=""></a></li>
+      <li>[mode]<a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/mode/Mode.java"></a><a href="https://github.com/hunter-teacher-cert/csci70300-summer-2021/blob/main/code/mode/Driver.java">Driver.java</a></li>
             <li></li>
             <li></li>
             <li></li>
