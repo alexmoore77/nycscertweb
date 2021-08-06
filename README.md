@@ -41,5 +41,5 @@
       <ul>      
           <li>  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmq4irVJysouWKmgBvflzf03BiNTxc3duCtg&usqp=CAU
             <li>https://upload.wikimedia.org/wikipedia/commons/9/9f/Stack_data_structure.gif
-            <li>https://live.staticflickr.com/8016/7317420838_edb29a4043_b.jpg
+            <li>https://res.cloudinary.com/practicaldev/image/fetch/s--M5Zhijat--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://miro.medium.com/max/388/1%2A7QsZkfrRGhAu5yxxeDdzsA.png
             </ul></td></tr></table></body></html>
