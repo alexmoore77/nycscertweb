@@ -39,11 +39,7 @@
        <li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/jSoup.txt">jSoup Activity</a></li>
 <li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/Wikipedia.java">Wikipedia.java</a></li>
 <li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/barGraphify.java">barGraphify.java</a></li>
-<li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/vertBarGraphify.java">verBarGraphify.java</a></li>
-
-      
-      </ul>
-      </td></tr>
+<li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/vertBarGraphify.java">verBarGraphify.java</a></li></ul></td></tr>
       <tr><td>Repository Image Licenses- Creative Commons:<br>
       <ul>      
           <li>  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmq4irVJysouWKmgBvflzf03BiNTxc3duCtg&usqp=CAU
