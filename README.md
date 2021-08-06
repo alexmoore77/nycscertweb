@@ -29,9 +29,9 @@
       </ul>
       </td></tr><tr><td align=center> 
       <font size=+1><b>Methods I</b></font> <br><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AXL0Lmqr--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://miro.medium.com/max/388/1%2A7QsZkfrRGhAu5yxxeDdzsA.png" width=150></td></tr>
-      <tr><td><ul><li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/AlexMoorePortfolioLesson1.pdf">Portfolio Lesson #1</a>:  Value Swapping in the Context of Bubble Sort</a></li>
-<li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/AlexMoorePortfolioLesson2.pdf">Code Tracing of Iteration</a></li>
- <li><a href="">Initial CS Lesson</a></li>
+      <tr><td><ul><li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/AlexMoorePortfolioLesson1.pdf">Portfolio Lesson #1</a>:  Value Swapping in the Context of Bubble Sort</li>
+<li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/AlexMoorePortfolioLesson2.pdf">Portfolio Lesson #2:</a>  Code Tracing of Iteration</li>
+ <li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/OldCSLessonForSecondDayOfClass.pdf">Old CS Lesson for Second Day of Class</a></li>
       <li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/RussianNestingDollsLessonAlexanderMoore7-13-21.pdf">Unplugged CS Lesson:  Russian Nesting Dolls</a></li>
             <li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/LiveCodingNotesAssignment2MethodsAlexMoore7-14-21.pdf">Live Coding Activity</a></li>
       <li><a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/meth1/teachingNetlogo.txt">Teaching Netlogo</a></li>
