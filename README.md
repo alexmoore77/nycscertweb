@@ -28,8 +28,7 @@
             <li>[ds-design]<a href="https://github.com/hunter-teacher-cert/work_csci70900-alexmoore77/blob/master/ds/ds_design/ds_design.txt">DS Design</a></li>
       </ul>
       </td></tr><tr><td align=center> 
-      <font size=+1><b>Methods I</b></font> <br>
-      <img src="https://drive.google.com/file/d/1s435K0KMD-MOQGqZv7FJhxzEjl2v1nHd/view?usp=sharing" width=150></td></tr>
+      <font size=+1><b>Methods I</b></font> <br><img src="https://drive.google.com/file/d/1-3uQeWwuJtiSesBSXDrfNv19DdHJWbjz/view?usp=sharing" width=150></td></tr>
       <tr><td>
             <ul>
                   <li><a href="">Portfolio Lesson #1</a></li>
